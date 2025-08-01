@@ -67,3 +67,7 @@ When user types "next":
 5. **Continue normal workflow** (create file, check domains, update file)
 
 This ensures continuous domain discovery without any repeats across multiple "next" rounds!
+
+----
+
+FOR THE MCP : https://github.com/bharathvaj-ganesan/whois-mcp
