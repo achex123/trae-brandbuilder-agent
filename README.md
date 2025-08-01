@@ -70,4 +70,4 @@ This ensures continuous domain discovery without any repeats across multiple "ne
 
 ----
 
-FOR THE MCP : https://github.com/bharathvaj-ganesan/whois-mcp
+MCP : https://github.com/bharathvaj-ganesan/whois-mcp
